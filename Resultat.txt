@@ -1,0 +1,747 @@
+[21:25:01] Selected: j6010_4.sm
+[21:25:04] 🚀 Starting solver on 480 instance(s)...
+[21:25:04] 
+── Instance 1/480: j6010_1 ──
+[21:25:04]    Jobs: 62  Resources: 4  Horizon: 323
+[21:25:04]    LB(CPM)=85  LB(Res)=53  LB(Window)=85  → LB=85
+[21:25:04]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:25:04]    ✓ Cmax=85  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:25:05] 
+── Instance 2/480: j6010_10 ──
+[21:25:05]    Jobs: 62  Resources: 4  Horizon: 319
+[21:25:05]    LB(CPM)=73  LB(Res)=44  LB(Window)=73  → LB=73
+[21:25:05]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:25:05]    ✓ Cmax=73  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:25:05] 
+── Instance 3/480: j6010_2 ──
+[21:25:05]    Jobs: 62  Resources: 4  Horizon: 353
+[21:25:05]    LB(CPM)=62  LB(Res)=42  LB(Window)=62  → LB=62
+[21:25:05]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:26:53]    ✓ Cmax=63  Gap-LB=1.6%  Time=108.0s  ✓ Open
+[21:26:53] 
+── Instance 4/480: j6010_3 ──
+[21:26:53]    Jobs: 62  Resources: 4  Horizon: 353
+[21:26:53]    LB(CPM)=72  LB(Res)=57  LB(Window)=72  → LB=72
+[21:26:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:26:53]    ✓ Cmax=72  Gap-LB=0.0%  Time=0.1s  ✓ Open
+[21:26:53] 
+── Instance 5/480: j6010_4 ──
+[21:26:53]    Jobs: 62  Resources: 4  Horizon: 330
+[21:26:53]    LB(CPM)=80  LB(Res)=53  LB(Window)=80  → LB=80
+[21:26:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:26:53]    ✓ Cmax=80  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:26:53] 
+── Instance 6/480: j6010_5 ──
+[21:26:53]    Jobs: 62  Resources: 4  Horizon: 377
+[21:26:53]    LB(CPM)=79  LB(Res)=56  LB(Window)=79  → LB=79
+[21:26:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:26:53]    ✓ Cmax=79  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:26:53] 
+── Instance 7/480: j6010_6 ──
+[21:26:53]    Jobs: 62  Resources: 4  Horizon: 322
+[21:26:53]    LB(CPM)=67  LB(Res)=46  LB(Window)=67  → LB=67
+[21:26:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:26:54]    ✓ Cmax=67  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:26:54] 
+── Instance 8/480: j6010_7 ──
+[21:26:54]    Jobs: 62  Resources: 4  Horizon: 346
+[21:26:54]    LB(CPM)=69  LB(Res)=51  LB(Window)=69  → LB=69
+[21:26:54]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:28:42]    ✓ Cmax=70  Gap-LB=1.4%  Time=108.0s  ✓ Open
+[21:28:42] 
+── Instance 9/480: j6010_8 ──
+[21:28:42]    Jobs: 62  Resources: 4  Horizon: 303
+[21:28:42]    LB(CPM)=64  LB(Res)=48  LB(Window)=64  → LB=64
+[21:28:42]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:30:30]    ✓ Cmax=66  Gap-LB=3.1%  Time=108.1s  ✓ Open
+[21:30:30] 
+── Instance 10/480: j6010_9 ──
+[21:30:30]    Jobs: 62  Resources: 4  Horizon: 358
+[21:30:30]    LB(CPM)=73  LB(Res)=52  LB(Window)=73  → LB=73
+[21:30:30]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:18]    ✓ Cmax=75  Gap-LB=2.7%  Time=108.1s  ✓ Open
+[21:32:18] 
+── Instance 11/480: j6011_1 ──
+[21:32:18]    Jobs: 62  Resources: 4  Horizon: 366
+[21:32:18]    LB(CPM)=71  LB(Res)=47  LB(Window)=71  → LB=71
+[21:32:18]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:18]    ✓ Cmax=71  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:18] 
+── Instance 12/480: j6011_10 ──
+[21:32:18]    Jobs: 62  Resources: 4  Horizon: 307
+[21:32:18]    LB(CPM)=58  LB(Res)=35  LB(Window)=58  → LB=58
+[21:32:18]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:18]    ✓ Cmax=58  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 13/480: j6011_2 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 321
+[21:32:19]    LB(CPM)=61  LB(Res)=38  LB(Window)=61  → LB=61
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:19]    ✓ Cmax=61  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 14/480: j6011_3 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 344
+[21:32:19]    LB(CPM)=76  LB(Res)=45  LB(Window)=76  → LB=76
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:19]    ✓ Cmax=76  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 15/480: j6011_4 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 329
+[21:32:19]    LB(CPM)=69  LB(Res)=43  LB(Window)=69  → LB=69
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:19]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 16/480: j6011_5 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 351
+[21:32:19]    LB(CPM)=65  LB(Res)=40  LB(Window)=65  → LB=65
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:19]    ✓ Cmax=65  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 17/480: j6011_6 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 331
+[21:32:19]    LB(CPM)=70  LB(Res)=47  LB(Window)=70  → LB=70
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:19]    ✓ Cmax=70  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:19] 
+── Instance 18/480: j6011_7 ──
+[21:32:19]    Jobs: 62  Resources: 4  Horizon: 353
+[21:32:19]    LB(CPM)=70  LB(Res)=41  LB(Window)=70  → LB=70
+[21:32:19]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=70  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:20] 
+── Instance 19/480: j6011_8 ──
+[21:32:20]    Jobs: 62  Resources: 4  Horizon: 358
+[21:32:20]    LB(CPM)=69  LB(Res)=37  LB(Window)=69  → LB=69
+[21:32:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:20] 
+── Instance 20/480: j6011_9 ──
+[21:32:20]    Jobs: 62  Resources: 4  Horizon: 323
+[21:32:20]    LB(CPM)=62  LB(Res)=32  LB(Window)=62  → LB=62
+[21:32:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=62  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:20] 
+── Instance 21/480: j6012_1 ──
+[21:32:20]    Jobs: 62  Resources: 4  Horizon: 331
+[21:32:20]    LB(CPM)=59  LB(Res)=23  LB(Window)=59  → LB=59
+[21:32:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=59  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:20] 
+── Instance 22/480: j6012_10 ──
+[21:32:20]    Jobs: 62  Resources: 4  Horizon: 342
+[21:32:20]    LB(CPM)=79  LB(Res)=32  LB(Window)=79  → LB=79
+[21:32:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=79  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:20] 
+── Instance 23/480: j6012_2 ──
+[21:32:20]    Jobs: 62  Resources: 4  Horizon: 287
+[21:32:20]    LB(CPM)=58  LB(Res)=27  LB(Window)=58  → LB=58
+[21:32:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:20]    ✓ Cmax=58  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 24/480: j6012_3 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 345
+[21:32:21]    LB(CPM)=75  LB(Res)=38  LB(Window)=75  → LB=75
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=75  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 25/480: j6012_4 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 342
+[21:32:21]    LB(CPM)=69  LB(Res)=25  LB(Window)=69  → LB=69
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 26/480: j6012_5 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 327
+[21:32:21]    LB(CPM)=63  LB(Res)=31  LB(Window)=63  → LB=63
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=63  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 27/480: j6012_6 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 329
+[21:32:21]    LB(CPM)=54  LB(Res)=28  LB(Window)=54  → LB=54
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=54  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 28/480: j6012_7 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 349
+[21:32:21]    LB(CPM)=71  LB(Res)=26  LB(Window)=71  → LB=71
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=71  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:21] 
+── Instance 29/480: j6012_8 ──
+[21:32:21]    Jobs: 62  Resources: 4  Horizon: 302
+[21:32:21]    LB(CPM)=60  LB(Res)=25  LB(Window)=60  → LB=60
+[21:32:21]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:21]    ✓ Cmax=60  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:22] 
+── Instance 30/480: j6012_9 ──
+[21:32:22]    Jobs: 62  Resources: 4  Horizon: 339
+[21:32:22]    LB(CPM)=59  LB(Res)=29  LB(Window)=59  → LB=59
+[21:32:22]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:32:22]    ✓ Cmax=59  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:32:22] 
+── Instance 31/480: j6013_1 ──
+[21:32:22]    Jobs: 62  Resources: 4  Horizon: 340
+[21:32:22]    LB(CPM)=69  LB(Res)=102  LB(Window)=69  → LB=102
+[21:32:22]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:34:10]    ✓ Cmax=125  Gap-LB=22.5%  Time=108.3s  ✓ Open
+[21:34:11] 
+── Instance 32/480: j6013_10 ──
+[21:34:11]    Jobs: 62  Resources: 4  Horizon: 354
+[21:34:11]    LB(CPM)=63  LB(Res)=109  LB(Window)=63  → LB=109
+[21:34:11]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:35:59]    ✓ Cmax=126  Gap-LB=15.6%  Time=108.3s  ✓ Open
+[21:35:59] 
+── Instance 33/480: j6013_2 ──
+[21:35:59]    Jobs: 62  Resources: 4  Horizon: 312
+[21:35:59]    LB(CPM)=66  LB(Res)=100  LB(Window)=66  → LB=100
+[21:35:59]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:37:47]    ✓ Cmax=118  Gap-LB=18.0%  Time=108.1s  ✓ Open
+[21:37:48] 
+── Instance 34/480: j6013_3 ──
+[21:37:48]    Jobs: 62  Resources: 4  Horizon: 331
+[21:37:48]    LB(CPM)=57  LB(Res)=81  LB(Window)=57  → LB=81
+[21:37:48]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:39:36]    ✓ Cmax=93  Gap-LB=14.8%  Time=108.0s  ✓ Open
+[21:39:36] 
+── Instance 35/480: j6013_4 ──
+[21:39:36]    Jobs: 62  Resources: 4  Horizon: 360
+[21:39:36]    LB(CPM)=62  LB(Res)=89  LB(Window)=62  → LB=89
+[21:39:36]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:41:24]    ✓ Cmax=110  Gap-LB=23.6%  Time=108.1s  ✓ Open
+[21:41:24] 
+── Instance 36/480: j6013_5 ──
+[21:41:24]    Jobs: 62  Resources: 4  Horizon: 330
+[21:41:24]    LB(CPM)=53  LB(Res)=89  LB(Window)=53  → LB=89
+[21:41:24]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:43:12]    ✓ Cmax=104  Gap-LB=16.9%  Time=108.1s  ✓ Open
+[21:43:13] 
+── Instance 37/480: j6013_6 ──
+[21:43:13]    Jobs: 62  Resources: 4  Horizon: 324
+[21:43:13]    LB(CPM)=61  LB(Res)=85  LB(Window)=61  → LB=85
+[21:43:13]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:45:01]    ✓ Cmax=104  Gap-LB=22.4%  Time=108.0s  ✓ Open
+[21:45:01] 
+── Instance 38/480: j6013_7 ──
+[21:45:01]    Jobs: 62  Resources: 4  Horizon: 319
+[21:45:01]    LB(CPM)=54  LB(Res)=77  LB(Window)=54  → LB=77
+[21:45:01]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:46:49]    ✓ Cmax=96  Gap-LB=24.7%  Time=108.0s  ✓ Open
+[21:46:49] 
+── Instance 39/480: j6013_8 ──
+[21:46:49]    Jobs: 62  Resources: 4  Horizon: 344
+[21:46:49]    LB(CPM)=69  LB(Res)=103  LB(Window)=69  → LB=103
+[21:46:49]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:48:37]    ✓ Cmax=132  Gap-LB=28.2%  Time=108.0s  ✓ Open
+[21:48:37] 
+── Instance 40/480: j6013_9 ──
+[21:48:37]    Jobs: 62  Resources: 4  Horizon: 349
+[21:48:37]    LB(CPM)=67  LB(Res)=91  LB(Window)=67  → LB=91
+[21:48:37]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:50:25]    ✓ Cmax=109  Gap-LB=19.8%  Time=108.0s  ✓ Open
+[21:50:26] 
+── Instance 41/480: j6014_1 ──
+[21:50:26]    Jobs: 62  Resources: 4  Horizon: 332
+[21:50:26]    LB(CPM)=59  LB(Res)=49  LB(Window)=59  → LB=59
+[21:50:26]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:52:14]    ✓ Cmax=63  Gap-LB=6.8%  Time=108.0s  ✓ Open
+[21:52:14] 
+── Instance 42/480: j6014_10 ──
+[21:52:14]    Jobs: 62  Resources: 4  Horizon: 371
+[21:52:14]    LB(CPM)=67  LB(Res)=62  LB(Window)=67  → LB=67
+[21:52:14]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:54:02]    ✓ Cmax=77  Gap-LB=14.9%  Time=108.0s  ✓ Open
+[21:54:02] 
+── Instance 43/480: j6014_2 ──
+[21:54:02]    Jobs: 62  Resources: 4  Horizon: 335
+[21:54:02]    LB(CPM)=65  LB(Res)=51  LB(Window)=65  → LB=65
+[21:54:02]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:54:02]    ✓ Cmax=65  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:54:02] 
+── Instance 44/480: j6014_3 ──
+[21:54:02]    Jobs: 62  Resources: 4  Horizon: 315
+[21:54:02]    LB(CPM)=61  LB(Res)=53  LB(Window)=61  → LB=61
+[21:54:02]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:55:51]    ✓ Cmax=64  Gap-LB=4.9%  Time=108.3s  ✓ Open
+[21:55:51] 
+── Instance 45/480: j6014_4 ──
+[21:55:51]    Jobs: 62  Resources: 4  Horizon: 336
+[21:55:51]    LB(CPM)=65  LB(Res)=53  LB(Window)=65  → LB=65
+[21:55:51]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:39]    ✓ Cmax=67  Gap-LB=3.1%  Time=108.0s  ✓ Open
+[21:57:40] 
+── Instance 46/480: j6014_5 ──
+[21:57:40]    Jobs: 62  Resources: 4  Horizon: 312
+[21:57:40]    LB(CPM)=59  LB(Res)=49  LB(Window)=59  → LB=59
+[21:57:40]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:40]    ✓ Cmax=59  Gap-LB=0.0%  Time=0.5s  ✓ Open
+[21:57:41] 
+── Instance 47/480: j6014_6 ──
+[21:57:41]    Jobs: 62  Resources: 4  Horizon: 314
+[21:57:41]    LB(CPM)=65  LB(Res)=53  LB(Window)=65  → LB=65
+[21:57:41]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:48]    ✓ Cmax=65  Gap-LB=0.0%  Time=6.8s  ✓ Open
+[21:57:48] 
+── Instance 48/480: j6014_7 ──
+[21:57:48]    Jobs: 62  Resources: 4  Horizon: 315
+[21:57:48]    LB(CPM)=69  LB(Res)=54  LB(Window)=69  → LB=69
+[21:57:48]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:48]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:49] 
+── Instance 49/480: j6014_8 ──
+[21:57:49]    Jobs: 62  Resources: 4  Horizon: 287
+[21:57:49]    LB(CPM)=88  LB(Res)=55  LB(Window)=88  → LB=88
+[21:57:49]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:49]    ✓ Cmax=88  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:50] 
+── Instance 50/480: j6014_9 ──
+[21:57:50]    Jobs: 62  Resources: 4  Horizon: 308
+[21:57:50]    LB(CPM)=61  LB(Res)=48  LB(Window)=61  → LB=61
+[21:57:50]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:50]    ✓ Cmax=61  Gap-LB=0.0%  Time=0.1s  ✓ Open
+[21:57:51] 
+── Instance 51/480: j6015_1 ──
+[21:57:51]    Jobs: 62  Resources: 4  Horizon: 334
+[21:57:51]    LB(CPM)=84  LB(Res)=44  LB(Window)=84  → LB=84
+[21:57:51]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:51]    ✓ Cmax=84  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:51] 
+── Instance 52/480: j6015_10 ──
+[21:57:51]    Jobs: 62  Resources: 4  Horizon: 300
+[21:57:51]    LB(CPM)=61  LB(Res)=35  LB(Window)=61  → LB=61
+[21:57:51]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:51]    ✓ Cmax=61  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:52] 
+── Instance 53/480: j6015_2 ──
+[21:57:52]    Jobs: 62  Resources: 4  Horizon: 339
+[21:57:52]    LB(CPM)=89  LB(Res)=55  LB(Window)=89  → LB=89
+[21:57:52]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:52]    ✓ Cmax=89  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:52] 
+── Instance 54/480: j6015_3 ──
+[21:57:52]    Jobs: 62  Resources: 4  Horizon: 341
+[21:57:52]    LB(CPM)=72  LB(Res)=36  LB(Window)=72  → LB=72
+[21:57:52]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:53]    ✓ Cmax=72  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:53] 
+── Instance 55/480: j6015_4 ──
+[21:57:53]    Jobs: 62  Resources: 4  Horizon: 373
+[21:57:53]    LB(CPM)=75  LB(Res)=47  LB(Window)=75  → LB=75
+[21:57:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:53]    ✓ Cmax=75  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:54] 
+── Instance 56/480: j6015_5 ──
+[21:57:54]    Jobs: 62  Resources: 4  Horizon: 342
+[21:57:54]    LB(CPM)=70  LB(Res)=46  LB(Window)=70  → LB=70
+[21:57:54]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:54]    ✓ Cmax=70  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:54] 
+── Instance 57/480: j6015_6 ──
+[21:57:54]    Jobs: 62  Resources: 4  Horizon: 333
+[21:57:54]    LB(CPM)=76  LB(Res)=46  LB(Window)=76  → LB=76
+[21:57:54]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:54]    ✓ Cmax=76  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:55] 
+── Instance 58/480: j6015_7 ──
+[21:57:55]    Jobs: 62  Resources: 4  Horizon: 333
+[21:57:55]    LB(CPM)=64  LB(Res)=44  LB(Window)=64  → LB=64
+[21:57:55]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:55]    ✓ Cmax=64  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:55] 
+── Instance 59/480: j6015_8 ──
+[21:57:55]    Jobs: 62  Resources: 4  Horizon: 361
+[21:57:55]    LB(CPM)=79  LB(Res)=48  LB(Window)=79  → LB=79
+[21:57:55]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:55]    ✓ Cmax=79  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:56] 
+── Instance 60/480: j6015_9 ──
+[21:57:56]    Jobs: 62  Resources: 4  Horizon: 378
+[21:57:56]    LB(CPM)=72  LB(Res)=34  LB(Window)=72  → LB=72
+[21:57:56]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:56]    ✓ Cmax=72  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:56] 
+── Instance 61/480: j6016_1 ──
+[21:57:56]    Jobs: 62  Resources: 4  Horizon: 365
+[21:57:56]    LB(CPM)=64  LB(Res)=34  LB(Window)=64  → LB=64
+[21:57:56]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:56]    ✓ Cmax=64  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:57] 
+── Instance 62/480: j6016_10 ──
+[21:57:57]    Jobs: 62  Resources: 4  Horizon: 356
+[21:57:57]    LB(CPM)=68  LB(Res)=35  LB(Window)=68  → LB=68
+[21:57:57]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:57]    ✓ Cmax=68  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:57] 
+── Instance 63/480: j6016_2 ──
+[21:57:57]    Jobs: 62  Resources: 4  Horizon: 335
+[21:57:57]    LB(CPM)=64  LB(Res)=25  LB(Window)=64  → LB=64
+[21:57:57]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:57]    ✓ Cmax=64  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:58] 
+── Instance 64/480: j6016_3 ──
+[21:57:58]    Jobs: 62  Resources: 4  Horizon: 308
+[21:57:58]    LB(CPM)=53  LB(Res)=27  LB(Window)=53  → LB=53
+[21:57:58]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:58]    ✓ Cmax=53  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:58] 
+── Instance 65/480: j6016_4 ──
+[21:57:58]    Jobs: 62  Resources: 4  Horizon: 312
+[21:57:58]    LB(CPM)=60  LB(Res)=31  LB(Window)=60  → LB=60
+[21:57:58]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:58]    ✓ Cmax=60  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:59] 
+── Instance 66/480: j6016_5 ──
+[21:57:59]    Jobs: 62  Resources: 4  Horizon: 329
+[21:57:59]    LB(CPM)=66  LB(Res)=29  LB(Window)=66  → LB=66
+[21:57:59]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:59]    ✓ Cmax=66  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:57:59] 
+── Instance 67/480: j6016_6 ──
+[21:57:59]    Jobs: 62  Resources: 4  Horizon: 361
+[21:57:59]    LB(CPM)=66  LB(Res)=36  LB(Window)=66  → LB=66
+[21:57:59]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:57:59]    ✓ Cmax=66  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:58:00] 
+── Instance 68/480: j6016_7 ──
+[21:58:00]    Jobs: 62  Resources: 4  Horizon: 297
+[21:58:00]    LB(CPM)=82  LB(Res)=40  LB(Window)=82  → LB=82
+[21:58:00]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:58:00]    ✓ Cmax=82  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:58:00] 
+── Instance 69/480: j6016_8 ──
+[21:58:00]    Jobs: 62  Resources: 4  Horizon: 340
+[21:58:00]    LB(CPM)=68  LB(Res)=30  LB(Window)=68  → LB=68
+[21:58:00]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:58:00]    ✓ Cmax=68  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:58:01] 
+── Instance 70/480: j6016_9 ──
+[21:58:01]    Jobs: 62  Resources: 4  Horizon: 321
+[21:58:01]    LB(CPM)=54  LB(Res)=28  LB(Window)=54  → LB=54
+[21:58:01]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:58:01]    ✓ Cmax=54  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[21:58:02] 
+── Instance 71/480: j6017_1 ──
+[21:58:02]    Jobs: 62  Resources: 4  Horizon: 313
+[21:58:02]    LB(CPM)=76  LB(Res)=43  LB(Window)=76  → LB=76
+[21:58:02]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[21:59:50]    ✓ Cmax=95  Gap-LB=25.0%  Time=108.1s  ✓ Open
+[21:59:50] 
+── Instance 72/480: j6017_10 ──
+[21:59:50]    Jobs: 62  Resources: 4  Horizon: 364
+[21:59:50]    LB(CPM)=65  LB(Res)=47  LB(Window)=65  → LB=65
+[21:59:50]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:01:38]    ✓ Cmax=74  Gap-LB=13.8%  Time=108.1s  ✓ Open
+[22:01:39] 
+── Instance 73/480: j6017_2 ──
+[22:01:39]    Jobs: 62  Resources: 4  Horizon: 305
+[22:01:39]    LB(CPM)=67  LB(Res)=50  LB(Window)=67  → LB=67
+[22:01:39]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:03:27]    ✓ Cmax=72  Gap-LB=7.5%  Time=108.2s  ✓ Open
+[22:03:28] 
+── Instance 74/480: j6017_3 ──
+[22:03:28]    Jobs: 62  Resources: 4  Horizon: 363
+[22:03:28]    LB(CPM)=79  LB(Res)=65  LB(Window)=79  → LB=79
+[22:03:28]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:05:16]    ✓ Cmax=89  Gap-LB=12.7%  Time=108.3s  ✓ Open
+[22:05:16] 
+── Instance 75/480: j6017_4 ──
+[22:05:16]    Jobs: 62  Resources: 4  Horizon: 305
+[22:05:16]    LB(CPM)=69  LB(Res)=36  LB(Window)=69  → LB=69
+[22:05:16]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:07:05]    ✓ Cmax=71  Gap-LB=2.9%  Time=108.1s  ✓ Open
+[22:07:05] 
+── Instance 76/480: j6017_5 ──
+[22:07:05]    Jobs: 62  Resources: 4  Horizon: 275
+[22:07:05]    LB(CPM)=52  LB(Res)=36  LB(Window)=52  → LB=52
+[22:07:05]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:08:53]    ✓ Cmax=62  Gap-LB=19.2%  Time=108.1s  ✓ Open
+[22:08:54] 
+── Instance 77/480: j6017_6 ──
+[22:08:54]    Jobs: 62  Resources: 4  Horizon: 297
+[22:08:54]    LB(CPM)=67  LB(Res)=38  LB(Window)=67  → LB=67
+[22:08:54]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:10:42]    ✓ Cmax=83  Gap-LB=23.9%  Time=108.1s  ✓ Open
+[22:10:43] 
+── Instance 78/480: j6017_7 ──
+[22:10:43]    Jobs: 62  Resources: 4  Horizon: 357
+[22:10:43]    LB(CPM)=81  LB(Res)=50  LB(Window)=81  → LB=81
+[22:10:43]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:12:31]    ✓ Cmax=93  Gap-LB=14.8%  Time=108.1s  ✓ Open
+[22:12:31] 
+── Instance 79/480: j6017_8 ──
+[22:12:31]    Jobs: 62  Resources: 4  Horizon: 330
+[22:12:31]    LB(CPM)=66  LB(Res)=53  LB(Window)=66  → LB=66
+[22:12:31]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:14:19]    ✓ Cmax=91  Gap-LB=37.9%  Time=108.0s  ✓ Open
+[22:14:20] 
+── Instance 80/480: j6017_9 ──
+[22:14:20]    Jobs: 62  Resources: 4  Horizon: 322
+[22:14:20]    LB(CPM)=70  LB(Res)=52  LB(Window)=70  → LB=70
+[22:14:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:16:08]    ✓ Cmax=81  Gap-LB=15.7%  Time=108.1s  ✓ Open
+[22:16:08] 
+── Instance 81/480: j6018_1 ──
+[22:16:08]    Jobs: 62  Resources: 4  Horizon: 332
+[22:16:08]    LB(CPM)=80  LB(Res)=34  LB(Window)=80  → LB=80
+[22:16:08]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:17:57]    ✓ Cmax=81  Gap-LB=1.2%  Time=108.2s  ✓ Open
+[22:17:57] 
+── Instance 82/480: j6018_10 ──
+[22:17:57]    Jobs: 62  Resources: 4  Horizon: 383
+[22:17:57]    LB(CPM)=97  LB(Res)=36  LB(Window)=97  → LB=97
+[22:17:57]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:17:57]    ✓ Cmax=97  Gap-LB=0.0%  Time=0.1s  ✓ Open
+[22:17:58] 
+── Instance 83/480: j6018_2 ──
+[22:17:58]    Jobs: 62  Resources: 4  Horizon: 344
+[22:17:58]    LB(CPM)=69  LB(Res)=37  LB(Window)=69  → LB=69
+[22:17:58]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:17:58]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:17:59] 
+── Instance 84/480: j6018_3 ──
+[22:17:59]    Jobs: 62  Resources: 4  Horizon: 320
+[22:17:59]    LB(CPM)=77  LB(Res)=36  LB(Window)=77  → LB=77
+[22:17:59]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:17:59]    ✓ Cmax=77  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:17:59] 
+── Instance 85/480: j6018_4 ──
+[22:17:59]    Jobs: 62  Resources: 4  Horizon: 378
+[22:17:59]    LB(CPM)=71  LB(Res)=36  LB(Window)=71  → LB=71
+[22:17:59]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:17:59]    ✓ Cmax=71  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:18:00] 
+── Instance 86/480: j6018_5 ──
+[22:18:00]    Jobs: 62  Resources: 4  Horizon: 321
+[22:18:00]    LB(CPM)=80  LB(Res)=29  LB(Window)=80  → LB=80
+[22:18:00]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:18:00]    ✓ Cmax=80  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:18:00] 
+── Instance 87/480: j6018_6 ──
+[22:18:00]    Jobs: 62  Resources: 4  Horizon: 320
+[22:18:00]    LB(CPM)=61  LB(Res)=30  LB(Window)=61  → LB=61
+[22:18:00]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:18:00]    ✓ Cmax=61  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:18:01] 
+── Instance 88/480: j6018_7 ──
+[22:18:01]    Jobs: 62  Resources: 4  Horizon: 316
+[22:18:01]    LB(CPM)=87  LB(Res)=38  LB(Window)=87  → LB=87
+[22:18:01]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:49]    ✓ Cmax=93  Gap-LB=6.9%  Time=108.2s  ✓ Open
+[22:19:50] 
+── Instance 89/480: j6018_8 ──
+[22:19:50]    Jobs: 62  Resources: 4  Horizon: 333
+[22:19:50]    LB(CPM)=78  LB(Res)=35  LB(Window)=78  → LB=78
+[22:19:50]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:50]    ✓ Cmax=78  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:19:50] 
+── Instance 90/480: j6018_9 ──
+[22:19:50]    Jobs: 62  Resources: 4  Horizon: 330
+[22:19:50]    LB(CPM)=69  LB(Res)=35  LB(Window)=69  → LB=69
+[22:19:50]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:50]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:19:51] 
+── Instance 91/480: j6019_1 ──
+[22:19:51]    Jobs: 62  Resources: 4  Horizon: 336
+[22:19:51]    LB(CPM)=62  LB(Res)=28  LB(Window)=62  → LB=62
+[22:19:51]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:51]    ✓ Cmax=62  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:19:51] 
+── Instance 92/480: j6019_10 ──
+[22:19:51]    Jobs: 62  Resources: 4  Horizon: 336
+[22:19:51]    LB(CPM)=78  LB(Res)=28  LB(Window)=78  → LB=78
+[22:19:51]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:51]    ✓ Cmax=78  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:19:52] 
+── Instance 93/480: j6019_2 ──
+[22:19:52]    Jobs: 62  Resources: 4  Horizon: 376
+[22:19:52]    LB(CPM)=83  LB(Res)=33  LB(Window)=83  → LB=83
+[22:19:52]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:19:52]    ✓ Cmax=83  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:19:53] 
+── Instance 94/480: j6019_3 ──
+[22:19:53]    Jobs: 62  Resources: 4  Horizon: 350
+[22:19:53]    LB(CPM)=81  LB(Res)=30  LB(Window)=81  → LB=81
+[22:19:53]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:21:41]    ✓ Cmax=84  Gap-LB=3.7%  Time=108.1s  ✓ Open
+[22:21:41] 
+── Instance 95/480: j6019_4 ──
+[22:21:41]    Jobs: 62  Resources: 4  Horizon: 318
+[22:21:41]    LB(CPM)=67  LB(Res)=32  LB(Window)=67  → LB=67
+[22:21:41]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:21:41]    ✓ Cmax=67  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:21:41] 
+── Instance 96/480: j6019_5 ──
+[22:21:41]    Jobs: 62  Resources: 4  Horizon: 329
+[22:21:41]    LB(CPM)=73  LB(Res)=28  LB(Window)=73  → LB=73
+[22:21:41]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:21:41]    ✓ Cmax=73  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:21:41] 
+── Instance 97/480: j6019_6 ──
+[22:21:41]    Jobs: 62  Resources: 4  Horizon: 342
+[22:21:41]    LB(CPM)=68  LB(Res)=27  LB(Window)=68  → LB=68
+[22:21:41]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:23:29]    ✓ Cmax=69  Gap-LB=1.5%  Time=108.2s  ✓ Open
+[22:23:30] 
+── Instance 98/480: j6019_7 ──
+[22:23:30]    Jobs: 62  Resources: 4  Horizon: 315
+[22:23:30]    LB(CPM)=60  LB(Res)=24  LB(Window)=60  → LB=60
+[22:23:30]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:23:30]    ✓ Cmax=60  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:23:31] 
+── Instance 99/480: j6019_8 ──
+[22:23:31]    Jobs: 62  Resources: 4  Horizon: 331
+[22:23:31]    LB(CPM)=82  LB(Res)=34  LB(Window)=82  → LB=82
+[22:23:31]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:25:19]    ✓ Cmax=88  Gap-LB=7.3%  Time=108.1s  ✓ Open
+[22:25:20] 
+── Instance 100/480: j6019_9 ──
+[22:25:20]    Jobs: 62  Resources: 4  Horizon: 354
+[22:25:20]    LB(CPM)=67  LB(Res)=30  LB(Window)=67  → LB=67
+[22:25:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:27:08]    ✓ Cmax=69  Gap-LB=3.0%  Time=108.1s  ✓ Open
+[22:27:09] 
+── Instance 101/480: j601_1 ──
+[22:27:09]    Jobs: 62  Resources: 4  Horizon: 329
+[22:27:09]    LB(CPM)=77  LB(Res)=41  LB(Window)=77  → LB=77
+[22:27:09]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:27:09]    ✓ Cmax=77  Gap-LB=0.0%  Time=0.1s  ✓ Open
+[22:27:09] 
+── Instance 102/480: j601_10 ──
+[22:27:09]    Jobs: 62  Resources: 4  Horizon: 354
+[22:27:09]    LB(CPM)=76  LB(Res)=46  LB(Window)=76  → LB=76
+[22:27:09]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:28:58]    ✓ Cmax=80  Gap-LB=5.3%  Time=108.1s  ✓ Open
+[22:28:58] 
+── Instance 103/480: j601_2 ──
+[22:28:58]    Jobs: 62  Resources: 4  Horizon: 344
+[22:28:58]    LB(CPM)=65  LB(Res)=47  LB(Window)=65  → LB=65
+[22:28:58]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:30:47]    ✓ Cmax=81  Gap-LB=24.6%  Time=108.3s  ✓ Open
+[22:30:47] 
+── Instance 104/480: j601_3 ──
+[22:30:47]    Jobs: 62  Resources: 4  Horizon: 316
+[22:30:47]    LB(CPM)=67  LB(Res)=40  LB(Window)=67  → LB=67
+[22:30:47]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:32:35]    ✓ Cmax=70  Gap-LB=4.5%  Time=108.2s  ✓ Open
+[22:32:36] 
+── Instance 105/480: j601_4 ──
+[22:32:36]    Jobs: 62  Resources: 4  Horizon: 324
+[22:32:36]    LB(CPM)=79  LB(Res)=40  LB(Window)=79  → LB=79
+[22:32:36]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:34:24]    ✓ Cmax=93  Gap-LB=17.7%  Time=108.2s  ✓ Open
+[22:34:25] 
+── Instance 106/480: j601_5 ──
+[22:34:26]    Jobs: 62  Resources: 4  Horizon: 308
+[22:34:26]    LB(CPM)=68  LB(Res)=40  LB(Window)=68  → LB=68
+[22:34:26]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:36:14]    ✓ Cmax=73  Gap-LB=7.4%  Time=108.1s  ✓ Open
+[22:36:14] 
+── Instance 107/480: j601_6 ──
+[22:36:15]    Jobs: 62  Resources: 4  Horizon: 296
+[22:36:15]    LB(CPM)=52  LB(Res)=43  LB(Window)=52  → LB=52
+[22:36:15]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:38:03]    ✓ Cmax=66  Gap-LB=26.9%  Time=108.1s  ✓ Open
+[22:38:03] 
+── Instance 108/480: j601_7 ──
+[22:38:03]    Jobs: 62  Resources: 4  Horizon: 341
+[22:38:03]    LB(CPM)=60  LB(Res)=47  LB(Window)=60  → LB=60
+[22:38:03]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:39:51]    ✓ Cmax=75  Gap-LB=25.0%  Time=108.1s  ✓ Open
+[22:39:52] 
+── Instance 109/480: j601_8 ──
+[22:39:52]    Jobs: 62  Resources: 4  Horizon: 363
+[22:39:52]    LB(CPM)=71  LB(Res)=53  LB(Window)=71  → LB=71
+[22:39:52]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:41:40]    ✓ Cmax=81  Gap-LB=14.1%  Time=108.0s  ✓ Open
+[22:41:40] 
+── Instance 110/480: j601_9 ──
+[22:41:40]    Jobs: 62  Resources: 4  Horizon: 342
+[22:41:40]    LB(CPM)=75  LB(Res)=47  LB(Window)=75  → LB=75
+[22:41:40]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:28]    ✓ Cmax=89  Gap-LB=18.7%  Time=108.1s  ✓ Open
+[22:43:28] 
+── Instance 111/480: j6020_1 ──
+[22:43:28]    Jobs: 62  Resources: 4  Horizon: 342
+[22:43:28]    LB(CPM)=60  LB(Res)=25  LB(Window)=60  → LB=60
+[22:43:28]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:28]    ✓ Cmax=60  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:29] 
+── Instance 112/480: j6020_10 ──
+[22:43:29]    Jobs: 62  Resources: 4  Horizon: 326
+[22:43:29]    LB(CPM)=70  LB(Res)=28  LB(Window)=70  → LB=70
+[22:43:29]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:29]    ✓ Cmax=70  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:29] 
+── Instance 113/480: j6020_2 ──
+[22:43:29]    Jobs: 62  Resources: 4  Horizon: 288
+[22:43:29]    LB(CPM)=78  LB(Res)=24  LB(Window)=78  → LB=78
+[22:43:29]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:29]    ✓ Cmax=78  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:30] 
+── Instance 114/480: j6020_3 ──
+[22:43:30]    Jobs: 62  Resources: 4  Horizon: 348
+[22:43:30]    LB(CPM)=69  LB(Res)=22  LB(Window)=69  → LB=69
+[22:43:30]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:30]    ✓ Cmax=69  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:30] 
+── Instance 115/480: j6020_4 ──
+[22:43:30]    Jobs: 62  Resources: 4  Horizon: 338
+[22:43:30]    LB(CPM)=86  LB(Res)=18  LB(Window)=86  → LB=86
+[22:43:30]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:30]    ✓ Cmax=86  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:30] 
+── Instance 116/480: j6020_5 ──
+[22:43:30]    Jobs: 62  Resources: 4  Horizon: 343
+[22:43:30]    LB(CPM)=71  LB(Res)=26  LB(Window)=71  → LB=71
+[22:43:30]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:30]    ✓ Cmax=71  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:31] 
+── Instance 117/480: j6020_6 ──
+[22:43:31]    Jobs: 62  Resources: 4  Horizon: 338
+[22:43:31]    LB(CPM)=97  LB(Res)=23  LB(Window)=97  → LB=97
+[22:43:31]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:31]    ✓ Cmax=97  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:31] 
+── Instance 118/480: j6020_7 ──
+[22:43:31]    Jobs: 62  Resources: 4  Horizon: 328
+[22:43:31]    LB(CPM)=74  LB(Res)=24  LB(Window)=74  → LB=74
+[22:43:31]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:31]    ✓ Cmax=74  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:31] 
+── Instance 119/480: j6020_8 ──
+[22:43:31]    Jobs: 62  Resources: 4  Horizon: 315
+[22:43:31]    LB(CPM)=65  LB(Res)=20  LB(Window)=65  → LB=65
+[22:43:31]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:31]    ✓ Cmax=65  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:32] 
+── Instance 120/480: j6020_9 ──
+[22:43:32]    Jobs: 62  Resources: 4  Horizon: 362
+[22:43:32]    LB(CPM)=74  LB(Res)=33  LB(Window)=74  → LB=74
+[22:43:32]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:43:32]    ✓ Cmax=74  Gap-LB=0.0%  Time=0.0s  ✓ Open
+[22:43:32] 
+── Instance 121/480: j6021_1 ──
+[22:43:32]    Jobs: 62  Resources: 4  Horizon: 332
+[22:43:32]    LB(CPM)=76  LB(Res)=79  LB(Window)=76  → LB=79
+[22:43:32]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:45:20]    ✓ Cmax=111  Gap-LB=40.5%  Time=108.1s  ✓ Open
+[22:45:20] 
+── Instance 122/480: j6021_10 ──
+[22:45:20]    Jobs: 62  Resources: 4  Horizon: 277
+[22:45:20]    LB(CPM)=51  LB(Res)=65  LB(Window)=51  → LB=65
+[22:45:20]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:47:09]    ✓ Cmax=85  Gap-LB=30.8%  Time=108.1s  ✓ Open
+[22:47:09] 
+── Instance 123/480: j6021_2 ──
+[22:47:09]    Jobs: 62  Resources: 4  Horizon: 324
+[22:47:09]    LB(CPM)=92  LB(Res)=87  LB(Window)=92  → LB=92
+[22:47:09]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:48:57]    ✓ Cmax=117  Gap-LB=27.2%  Time=108.1s  ✓ Open
+[22:48:58] 
+── Instance 124/480: j6021_3 ──
+[22:48:58]    Jobs: 62  Resources: 4  Horizon: 326
+[22:48:58]    LB(CPM)=65  LB(Res)=67  LB(Window)=65  → LB=67
+[22:48:58]    [Fast Mode] Using ultra-fast j60 solver (Budget: 120.0s)...
+[22:50:46]    ✓ Cmax=91  Gap-LB=35.8%  Time=108.1s  ✓ Open
+[22:50:46] 
