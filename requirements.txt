@@ -1,0 +1,12 @@
+# RCPSP Solver - SupNum Coding Challenge S3C'1447
+# Requirements file
+
+# Core (Python standard library - no install needed):
+#   tkinter, threading, os, sys, math, time, dataclasses, random, heapq
+
+# Visualization (recommended):
+matplotlib>=3.5.0
+
+# Export support (optional):
+openpyxl>=3.0.0       # Excel export
+python-docx>=0.8.11   # Word export
