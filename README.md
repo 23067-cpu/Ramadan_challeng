@@ -49,4 +49,4 @@ L'application est fournie avec une interface graphique (GUI) élégante et compl
 ---
 *Ce dépôt ne contient intentionnellement que le cœur de l'intelligence artificielle (fichiers `.py`) de la solution, garantissant un code propre, structuré et modulaire pour le jury SupNum.*
 
-*Le fichier Resultat.txt contient la resultat de test de 124 probleme qui on dans le dossier j60.sm, c'est resultat son obtient pour une limite de temps 108 Seconds.*
+*Le fichier Resultat.txt contient la resultat de test de 124 probleme qui on dans le dossier j60.sm, c'est resultat son obtient pour une limite de temps 108 Seconds Selement.*
